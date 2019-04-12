@@ -1,5 +1,0 @@
-my name is sudongmei
-age:24
-sex:girl
-happy...
-
